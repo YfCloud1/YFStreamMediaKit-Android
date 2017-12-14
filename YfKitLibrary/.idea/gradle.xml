@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FFMpeg-decoder" />
+            <option value="$PROJECT_DIR$/FFMpeg-decoder-encoder" />
+            <option value="$PROJECT_DIR$/FFMpeg-decoder-encoder-https" />
+            <option value="$PROJECT_DIR$/FFMpeg-decoder-https" />
+            <option value="$PROJECT_DIR$/MuxerLib-editor" />
+            <option value="$PROJECT_DIR$/MuxerLib-link" />
+            <option value="$PROJECT_DIR$/MuxerLib-stream" />
+            <option value="$PROJECT_DIR$/YfAR" />
+            <option value="$PROJECT_DIR$/YfAuthentication" />
+            <option value="$PROJECT_DIR$/YfEncoderKit" />
+            <option value="$PROJECT_DIR$/YfFilter" />
+            <option value="$PROJECT_DIR$/YfK2Pagent" />
+            <option value="$PROJECT_DIR$/YfLinkKit" />
+            <option value="$PROJECT_DIR$/YfMediaPlayer" />
+            <option value="$PROJECT_DIR$/YfVR" />
+            <option value="$PROJECT_DIR$/myapplication" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
